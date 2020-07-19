@@ -1,2 +1,2 @@
-# The-Sparks-Foundation-Internship
+# TSF-Internship
 DATA SCIENCE AND MACHINE LEARNING TASK
